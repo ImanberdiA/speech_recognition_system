@@ -1,0 +1,8 @@
+D:\Dropbox\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+D:\Dropbox\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+D:\Dropbox\SpeechRecognition\obj\x86\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+D:\Dropbox\SpeechRecognition\obj\x86\Debug\SpeechRecognition.Form1.resources
+D:\Dropbox\SpeechRecognition\obj\x86\Debug\SpeechRecognition.Properties.Resources.resources
+D:\Dropbox\SpeechRecognition\obj\x86\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+D:\Dropbox\SpeechRecognition\obj\x86\Debug\SpeechRecognition.exe
+D:\Dropbox\SpeechRecognition\obj\x86\Debug\SpeechRecognition.pdb
